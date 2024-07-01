@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .qr-code {
+    background-color: chocolate;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-inline: center;
+    margin-left: 550px;
+} */
+
+.qr {
+    height: 200px;
+    width: 200px;
+    margin-left: 550px;
+}
